@@ -313,12 +313,9 @@ See course/project submission materials for the author roster.
 
 ## Report & Presentation
 
-- `Deep_Learning Report.pdf` — full written report (source project folder).
-- `TruthLens.pptx` — presentation deck (source project folder).
-- `TruthLens_Dashboard.html` — standalone results dashboard (source project folder).
-
-These supporting deliverables live alongside the original research artifacts and are not
-duplicated into this repository; see the source project folder for the originals.
+- [`TruthLens.pptx`](TruthLens.pptx) — presentation deck (included in this repository).
+- `Deep_Learning Report.pdf` — full written report (source project folder, not included here).
+- `TruthLens_Dashboard.html` — standalone results dashboard (source project folder, not included here).
 
 ## License
 
