@@ -309,7 +309,7 @@ individuals or organizations. Always pair automated credibility scoring with hum
 
 ## Contributors
 
-See course/project submission materials for the author roster.
+Marwa, Radwa, Basma, Shrouk
 
 ## Report & Presentation
 
