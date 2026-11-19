@@ -309,7 +309,7 @@ individuals or organizations. Always pair automated credibility scoring with hum
 
 ## Contributors
 
-Marwa, Radwa, Basma, Shrouk
+Marwa, [Radwa](https://github.com/radwaelashry30-crypto), [Basma](https://github.com/BasmaMansour99), Shrouk
 
 ## Report & Presentation
 
